@@ -34,7 +34,7 @@ Each decision leads you closer to the treasure—or to a game over!
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/treasure-island-game.git
+   git clone https://github.com/Tanvikanaiya/Adventure-text-game/
    cd treasure-island-game
    ```
 
